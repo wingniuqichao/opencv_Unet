@@ -1,0 +1,3 @@
+﻿  opencv_unet.cpp
+opencv_unet.cpp(18): warning C4101: “ee”: 未引用的局部变量
+opencv_core401.lib(opencv_core401.dll) : fatal error LNK1112: 模块计算机类型“X86”与目标计算机类型“x64”冲突
